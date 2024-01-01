@@ -1,0 +1,3 @@
+C:\Users\TChatterjee\OneDrive - HARMAN\Projects\Code\SDV\SDV_ModelProject\SDV_MOCK_HMI\x64\Debug\SDV_MOCK_HMI.vcxproj.AssemblyReference.cache
+C:\Users\TChatterjee\OneDrive - HARMAN\Projects\Code\SDV\SDV_ModelProject\SDV_MOCK_HMI\x64\Debug\SDVMOCKHMI.MyForm.resources
+C:\Users\TChatterjee\OneDrive - HARMAN\Projects\Code\SDV\SDV_ModelProject\SDV_MOCK_HMI\x64\Debug\SDV_MOCK_HMI.vcxproj.GenerateResource.cache
